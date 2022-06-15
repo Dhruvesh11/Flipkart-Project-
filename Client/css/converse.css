@@ -1,0 +1,36 @@
+.title{
+    margin-left: 280px;
+}
+.img{
+    margin-left: 150px;
+}
+.des{
+    display: flex;
+    flex-direction: row;
+    
+}
+.info{
+    margin-left: 50px;
+    font-family: 'Questrial', sans-serif;
+}
+.price{
+      color: green;
+      font-size: larger;
+      
+}
+h2{
+    font-family: 'Questrial', sans-serif;
+}
+.btn{
+    padding: 10px 40px;
+    border: 2px solid black;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.btn:hover{
+    box-shadow: inset 156px 0 0 0 darkgray;
+    
+}
+.buy{
+    font-size: larger;
+}
